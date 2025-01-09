@@ -54,7 +54,7 @@ Here are a few projects I’m proud of:
 ---
 
 ## 🌟 Fun Facts About Me
-- **Sports** have always been a big part of my life, both as a fan and a participant.
 - I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
 - I have a strong interest in **Real Estate** and aspire to leverage my technical skills to transform the industry through innovation in areas like predictive analytics and customer experience.
 - I’m passionate about creating **future projects** and joining **communities** where I can make a difference as a philanthropist.
+- **Sports** have always been a big part of my life, both as a fan and a participant.

@@ -38,7 +38,13 @@ Here are a few projects I’m proud of:
 2. **Bricks Breaker**
    - 📌 Repository: [Bricks Breaker](#)
    - https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
-   - 📝 Description: A fun and interactive game built to enhance skills in object-oriented programming.
+   - 📝 Description:
+      - Replaced a solitary brick object with a **vector of 5 bricks**, evenly spaced across a single row.
+     - Updated `Game::Render` and `Game::CheckCollision` to manage and check collisions for all bricks in the vector.
+     - Introduced a **collision response system**: bricks are removed from the vector after 3 collisions.
+     - Added **win and lose conditions**:
+       - **Win Condition:** If no bricks remain, the game pauses, and "You win! Press ‘R’ to play again" is displayed.
+       - **Lose Condition:** If the ball touches the bottom of the window, the game pauses, and "You lose. Press ‘R’ to play again" is displayed.
 
 3. **[Add Another Project]**
    - 📌 Repository: *(Add your repo link)*
@@ -49,12 +55,12 @@ Here are a few projects I’m proud of:
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal) 
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)
-- 🌐 Personal Website: 
+- 🌐 Personal Website: "Coming Soon"
 
 ---
 
 ## 🌟 Fun Facts About Me
-- I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
 - I have a strong interest in **Real Estate** and aspire to leverage my technical skills to transform the industry through innovation in areas like predictive analytics and customer experience.
+- I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
 - I’m passionate about creating **future projects** and joining **communities** where I can make a difference as a philanthropist.
 - **Sports** have always been a big part of my life, both as a fan and a participant.

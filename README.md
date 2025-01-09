@@ -31,11 +31,13 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** with
 Here are a few projects I’m proud of:
 
 1. **Conway's Game of Life**
-   - 📌 Repository: [Conway's Game of Life](#) https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git
+   - 📌 Repository: [Conway's Game of Life](#)
+   - https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git
    - 📝 Description: A simulation of Conway's Game of Life, demonstrating logic and visualizations in coding.
 
 2. **Bricks Breaker**
-   - 📌 Repository: [Bricks Breaker](#) https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
+   - 📌 Repository: [Bricks Breaker](#)
+   - https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
    - 📝 Description: A fun and interactive game built to enhance skills in object-oriented programming.
 
 3. **[Add Another Project]**

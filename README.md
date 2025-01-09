@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** with
 - Collaboration: **Social Media Management**
 
 ### Interests:
+- **Artificial Intelligence (AI)**: Exploring innovative applications to advance technology across industries.
 - **Software Development**: Crafting creative and efficient solutions to meet user needs and enhance workflows.
 - **Data Analytics**: Leveraging data to uncover patterns, improve decision-making, and drive innovation.
-- **Customer Experience**: Building systems that prioritize user satisfaction through intuitive interfaces and seamless interactions.
-- **Artificial Intelligence (AI)**: Exploring innovative applications to advance technology across industries.
 - **Problem-Solving**: Tackling challenges with creativity, logic, and a detail-oriented mindset.
+- **Customer Experience**: Building systems that prioritize user satisfaction through intuitive interfaces and seamless interactions.
 - **Collaboration**: Working within diverse teams to deliver impactful and scalable results.
 
 ---

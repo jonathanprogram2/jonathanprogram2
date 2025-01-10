@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eage
 ## 🚀 About Me
 - 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
 - 🛠️ Skilled in languages like **C++** and tools such as **Microsoft Office**, **Canva**, and **Adobe Express**.
-- 💡 While my long-term goals involve combining **AI**, **sports data**, and **real estate technology**, I am currently seeking opportunities to learn, contribute, and grow as a software engineer.
+- 💡 My long-term vision includes merging **AI**, **sports analytics**, and **real estate technology** to drive innovation and efficiency in these fields.
+- 🎓 Currently building a strong foundation as a junior software engineer, ready to contribute and grow within dynamic teams.
+- 📖 **Always Learning**: Continuously exploring new technologies and methodologies to enhance my skills and bring fresh perspectives to my work.
 
 ---
 
@@ -18,11 +20,19 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eage
 - Collaboration: **Social Media Management**
 
 ### Interests:
-- **Sports Analytics**: Using data and algorithms to enhance player performance, game strategies, and fan experiences.
-- **Artificial Intelligence (AI)**: Exploring how AI can optimize processes across industries like sports and real estate.
-- **Real Estate Technology**: Investigating tech-driven approaches to improve property management, investment insights, and customer experiences.
-- **Fitness**: Staying active and incorporating physical health into my daily routine.
-- **Problem-Solving**: Finding creative and logical solutions to complex challenges.
+- **Sports Analytics**: Leveraging data and algorithms to improve player performance, game strategies, and fan experiences.
+- **Artificial Intelligence (AI)**: Harnessing AI to revolutionize processes across sports, real estate, and other industries.
+- **Real Estate Technology**: Exploring innovative technologies for property management, investment insights, and customer engagement.
+- **Blockchain and Crypto**: A keen believer in the future of **blockchain technology**, **crypto**, and **Ethereum**.
+- **Stocks and Investments**: Enthusiastic about financial markets and long-term wealth building.
+- **Fitness**: Incorporating physical activity into daily routines to maintain a healthy lifestyle.
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **AI models** and their applications in sports and real estate.
+- **Real estate investment strategies** augmented by technology.
+- Innovations in **blockchain** and **crypto** for secure and efficient transactions.
 
 ---
 

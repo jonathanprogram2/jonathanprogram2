@@ -57,9 +57,10 @@ Here are a few projects I’m proud of:
 ---
 
 ## 🌟 Fun Facts About Me
-- **Sports** have always been a big part of my life, and I’m passionate about using analytics to enhance the game.
-- I'm **bilingual in Spanish**, which allows me to connect with a diverse range of people.
-- I’m fascinated by the intersection of technology and industries like sports and real estate.
-- I'm always ready to take on a new challenge—whether it's a tough coding problem or learning something new!
+- **Sports** have always been a big part of my life, both as a fan and a participant.
+- I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
+- I’m passionate about creating **projects** and joining **communities** where I can make a difference as a philanthropist.
+- I like **blockchain technology**, **crypto**, **Ethereum**, and I’m also interested in **stocks**.
+
 
 Thanks for visiting! Feel free to explore my repositories and connect with me. Let’s collaborate and grow together!

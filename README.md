@@ -1,6 +1,7 @@
 # Hi there, I'm Jonathan Mirabal! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eager to grow and make an impact in the tech industry. While I'm open to any entry-level opportunities to kickstart my career, I have a strong interest in **Sports Analytics**, **Artificial Intelligence (AI)**, and the **Real Estate industry**—three areas I aspire to focus on as I develop my skills further.
+Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eager to grow and make an impact in the tech industry. While I'm open to any entry-level opportunities to kickstart my career, I have a strong interest in **Artificial Intelligence (AI)**—an area I aspire to focus on as I develop my skills further.
+
 
 ---
 

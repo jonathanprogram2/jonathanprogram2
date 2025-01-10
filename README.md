@@ -50,9 +50,9 @@ Here are a few projects I’m proud of:
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal) *(Add your LinkedIn profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal)
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)
-- 🌐 Personal Website: *(Add if applicable)*
+- 🌐 Personal Website: "Coming soon"
 
 ---
 

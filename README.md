@@ -1,13 +1,13 @@
 # Hi there, I'm Jonathan Mirabal! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** with a strong focus on creating meaningful solutions and tackling real-world challenges. Here, you'll find a collection of my work as I grow and develop my skills to align with exciting opportunities across industries.
+Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eager to grow and make an impact in the tech industry. While I'm open to any entry-level opportunities to kickstart my career, I have a strong interest in **Sports Analytics**, **Artificial Intelligence (AI)**, and the **Real Estate industry**—three areas I aspire to focus on as I develop my skills further.
 
 ---
 
 ## 🚀 About Me
-- 🌟 I’m a passionate **Junior Software Engineer** driven by the potential of technology to solve real-world challenges and create meaningful impact.
-- 🛠️ Proficient in programming languages like **C++** and tools such as **Microsoft Office**, **Canva**, and **Adobe Express**, I thrive on building innovative solutions that bridge the gap between complex problems and practical applications.
-- 💡 I’m constantly learning and adapting to new technologies, with a focus on developing scalable, efficient, and user-focused systems across various industries.
+- 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
+- 🛠️ Skilled in languages like **C++** and tools such as **Microsoft Office**, **Canva**, and **Adobe Express**.
+- 💡 While my long-term goals involve combining **AI**, **sports data**, and **real estate technology**, I am currently seeking opportunities to learn, contribute, and grow as a software engineer.
 
 ---
 
@@ -18,12 +18,11 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** with
 - Collaboration: **Social Media Management**
 
 ### Interests:
-- **Artificial Intelligence (AI)**: Exploring innovative applications to advance technology across industries.
-- **Software Development**: Crafting creative and efficient solutions to meet user needs and enhance workflows.
-- **Data Analytics**: Leveraging data to uncover patterns, improve decision-making, and drive innovation.
-- **Problem-Solving**: Tackling challenges with creativity, logic, and a detail-oriented mindset.
-- **Customer Experience**: Building systems that prioritize user satisfaction through intuitive interfaces and seamless interactions.
-- **Collaboration**: Working within diverse teams to deliver impactful and scalable results.
+- **Sports Analytics**: Using data and algorithms to enhance player performance, game strategies, and fan experiences.
+- **Artificial Intelligence (AI)**: Exploring how AI can optimize processes across industries like sports and real estate.
+- **Real Estate Technology**: Investigating tech-driven approaches to improve property management, investment insights, and customer experiences.
+- **Fitness**: Staying active and incorporating physical health into my daily routine.
+- **Problem-Solving**: Finding creative and logical solutions to complex challenges.
 
 ---
 
@@ -31,18 +30,12 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** with
 Here are a few projects I’m proud of:
 
 1. **Conway's Game of Life**
-   - 📌 Repository: https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git
+   - 📌 Repository: [Conway's Game of Life](#) *(Add your repo link)*
    - 📝 Description: A simulation of Conway's Game of Life, demonstrating logic and visualizations in coding.
 
 2. **Bricks Breaker**
-   - 📌 Repository: https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
-   - 📝 Description:
-      - Replaced a solitary brick object with a **vector of 5 bricks**, evenly spaced across a single row.
-     - Updated `Game::Render` and `Game::CheckCollision` to manage and check collisions for all bricks in the vector.
-     - Introduced a **collision response system**: bricks are removed from the vector after 3 collisions.
-     - Added **win and lose conditions**:
-       - **Win Condition:** If no bricks remain, the game pauses, and "You win! Press ‘R’ to play again" is displayed.
-       - **Lose Condition:** If the ball touches the bottom of the window, the game pauses, and "You lose. Press ‘R’ to play again" is displayed.
+   - 📌 Repository: [Bricks Breaker](#) *(Add your repo link)*
+   - 📝 Description: A fun and interactive game built to enhance skills in object-oriented programming.
 
 3. **[Add Another Project]**
    - 📌 Repository: *(Add your repo link)*
@@ -51,14 +44,16 @@ Here are a few projects I’m proud of:
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal) *(Add your LinkedIn profile link)*
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)
-- 🌐 Personal Website: "Coming Soon"
+- 🌐 Personal Website: *(Add if applicable)*
 
 ---
 
 ## 🌟 Fun Facts About Me
-- I have a strong interest in **Real Estate** and aspire to leverage my technical skills to transform the industry through innovation in areas like predictive analytics and customer experience.
-- I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
-- I’m passionate about creating **future projects** and joining **communities** where I can make a difference as a philanthropist.
-- **Sports** have always been a big part of my life, both as a fan and a participant.
+- **Sports** have always been a big part of my life, and I’m passionate about using analytics to enhance the game.
+- I'm **bilingual in Spanish**, which allows me to connect with a diverse range of people.
+- I’m fascinated by the intersection of technology and industries like sports and real estate.
+- I'm always ready to take on a new challenge—whether it's a tough coding problem or learning something new!
+
+Thanks for visiting! Feel free to explore my repositories and connect with me. Let’s collaborate and grow together!

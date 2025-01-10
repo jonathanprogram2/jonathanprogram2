@@ -30,12 +30,18 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eage
 Here are a few projects I’m proud of:
 
 1. **Conway's Game of Life**
-   - 📌 Repository: [Conway's Game of Life](#) *(Add your repo link)*
+   - 📌 Repository: https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git
    - 📝 Description: A simulation of Conway's Game of Life, demonstrating logic and visualizations in coding.
 
 2. **Bricks Breaker**
-   - 📌 Repository: [Bricks Breaker](#) *(Add your repo link)*
-   - 📝 Description: A fun and interactive game built to enhance skills in object-oriented programming.
+   - 📌 Repository: https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
+   - 📝 Description:
+      - Replaced a solitary brick object with a **vector of 5 bricks**, evenly spaced across a single row.
+     - Updated `Game::Render` and `Game::CheckCollision` to manage and check collisions for all bricks in the vector.
+     - Introduced a **collision response system**: bricks are removed from the vector after 3 collisions.
+     - Added **win and lose conditions**:
+       - **Win Condition:** If no bricks remain, the game pauses, and "You win! Press ‘R’ to play again" is displayed.
+       - **Lose Condition:** If the ball touches the bottom of the window, the game pauses, and "You lose. Press ‘R’ to play again" is displayed.
 
 3. **[Add Another Project]**
    - 📌 Repository: *(Add your repo link)*

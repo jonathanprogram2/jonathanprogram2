@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eage
 
 ### Interests:
 - **Sports Analytics**: Leveraging data and algorithms to improve player performance, game strategies, and fan experiences.
-- **Artificial Intelligence (AI)**: Harnessing AI to revolutionize processes across sports, real estate, and other industries.
 - **Real Estate Technology**: Exploring innovative technologies for property management, investment insights, and customer engagement.
 - **Blockchain and Crypto**: A keen believer in the future of **blockchain technology**, **crypto**, and **Ethereum**.
 - **Stocks and Investments**: Enthusiastic about financial markets and long-term wealth building.
@@ -71,6 +70,7 @@ Here are a few projects I’m proud of:
 - **Sports** have always been a big part of my life, both as a fan and a participant.
 - I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
 - I’m passionate about creating **projects** and joining **communities** where I can make a difference as a philanthropist.
+- My favorite quotes are: *"Be the change that you wish to see"* and *"I can be what I will to be."*
 
 
 

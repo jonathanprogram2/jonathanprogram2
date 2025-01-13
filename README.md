@@ -1,13 +1,14 @@
 # Hi there, I'm Jonathan Mirabal! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eager to grow and make an impact in the tech industry. While I'm open to any entry-level opportunities to kickstart my career, I have a strong interest in **AI Simulation** and **Computer Vision**—fields that fascinate me as I explore the endless possibilities of Artificial Intelligence.
+Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with a passion for growth and innovation in the tech industry. Eager to make an impact, I’m particularly drawn to **AI Simulation**, a field that fuels my curiosity as I explore the limitless possibilities of Artificial Intelligence.
+
 
 ---
 
 ## 🚀 About Me
 - 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
 - 🛠️ Skilled in languages like **C++** and tools such as **Microsoft Office**, **Canva**, and **Adobe Express**.
-- 💡 My long-term vision includes advancing the fields of **AI Simulation** and **Computer Vision** to create impactful, cutting-edge technologies.
+- 💡 My long-term vision includes advancing the field of **AI Simulation** to create impactful, cutting-edge technologies.
 - 📚 Currently building a strong foundation as a junior software engineer, ready to contribute and grow within dynamic teams.
 - 📖 **Always Learning**: Continuously exploring new technologies and methodologies to enhance my skills and bring fresh perspectives to my work.
 
@@ -21,18 +22,16 @@ Welcome to my GitHub profile! I'm a passionate **Junior Software Engineer** eage
 
 ### Interests:
 - **AI Simulation**: Developing intelligent systems that mimic real-world behavior and decision-making processes.
-- **Computer Vision**: Exploring how machines interpret and process visual data to solve complex problems.
 - **AR/VR**: Creating immersive, interactive environments and experiences using augmented and virtual reality technologies.
-- **Sports Analytics**: Leveraging data and algorithms to improve player performance, game strategies, and fan experiences.
 - **Blockchain and Crypto**: A keen believer in the future of **blockchain technology** and its transformative potential.
 - **Fitness**: Incorporating physical activity into daily routines to maintain a healthy lifestyle.
 
 ---
 
 ## 🌱 Currently Exploring
-- Advanced **AI Simulation models** and their applications in virtual environments.
-- **Computer Vision frameworks** for image and video analysis.
-- Cutting-edge research in **autonomous systems** and **robotics**.
+- Advanced **AI Simulation models** and their applications in virtual environments.  
+- Cutting-edge research in **autonomous systems** and **robotics** powered by AI Simulation.  
+- The integration of **AI Simulation** in **AR/VR** to create immersive and interactive experiences.
 
 ---
 

@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 - **Full-Stack Development**: Delving into both front-end and back-end technologies to become more versatile in project development.
 - **Machine Learning Basics**: Gaining insights into how ML can be applied to software solutions, even if at a basic level.
 - **Web3 and Blockchain**: Exploring the future of the internet and finance with decentralized technologies.
-- Advanced **AI Simulation models** and their applications in virtual environments.  
 
 ---
 

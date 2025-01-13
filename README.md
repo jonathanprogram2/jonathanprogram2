@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 
 ## 🚀 About Me
 - 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
-- 🛠️ Skilled in languages like **C++** and tools such as **Microsoft Office**, **Canva**, and **Adobe Express**.
 - 💡 My long-term vision includes advancing the field of **AI Simulation** to create impactful, cutting-edge technologies.
 - 📚 Currently building a strong foundation as a junior software engineer, ready to contribute and grow within dynamic teams.
 - 📖 **Always Learning**: Continuously exploring new technologies and methodologies to enhance my skills and bring fresh perspectives to my work.

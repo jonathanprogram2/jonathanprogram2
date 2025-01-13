@@ -16,9 +16,8 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 
 ## 🔧 Skills & Interests
 ### Technical Skills:
-- Programming: **C++**
+- Programming: **C++**, Object-Oriented Programming, Data Structures, Algorithms
 - Productivity Tools: **Microsoft Office (Word, Excel, PowerPoint, Outlook)**, **Canva**, **Adobe Express**
-- Collaboration: **Social Media Management**
 
 ### Interests:
 - **AI Simulation**: Developing intelligent systems that mimic real-world behavior and decision-making processes.

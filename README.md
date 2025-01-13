@@ -29,9 +29,10 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 ---
 
 ## 🌱 Currently Exploring
+- **Full-Stack Development**: Delving into both front-end and back-end technologies to become more versatile in project development.
+- **Machine Learning Basics**: Gaining insights into how ML can be applied to software solutions, even if at a basic level.
+- **Web3 and Blockchain**: Exploring the future of the internet and finance with decentralized technologies.
 - Advanced **AI Simulation models** and their applications in virtual environments.  
-- Cutting-edge research in **autonomous systems** and **robotics** powered by AI Simulation.  
-- The integration of **AI Simulation** in **AR/VR** to create immersive and interactive experiences.
 
 ---
 
@@ -51,10 +52,6 @@ Here are a few projects I’m proud of:
      - Added **win and lose conditions**:
        - **Win Condition:** If no bricks remain, the game pauses, and "You win! Press ‘R’ to play again" is displayed.
        - **Lose Condition:** If the ball touches the bottom of the window, the game pauses, and "You lose. Press ‘R’ to play again" is displayed.
-
-3. **[Add Another Project]**
-   - 📌 Repository: *(Add your repo link)*
-   - 🖍️ Description: *(Write a short description here)*
 
 ---
 

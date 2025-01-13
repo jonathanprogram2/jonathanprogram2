@@ -2,14 +2,12 @@
 
 Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with a passion for growth and innovation in the tech industry. Eager to make an impact, I’m particularly drawn to **AI Simulation**, a field that fuels my curiosity as I explore the limitless possibilities of Artificial Intelligence.
 
-
 ---
 
 ## 🚀 About Me
 - 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
-- 💡 My long-term vision includes advancing the field of **AI Simulation** to create impactful, cutting-edge technologies.
+- 💡 My long-term vision includes advancing the field of **AI Simulation**, **Computer Vision**, and exploring the transformative potential of **Web3, Blockchain, and Crypto** to create impactful, cutting-edge technologies.
 - 📖 **Always Learning**: Continuously exploring new technologies and methodologies to enhance my skills and bring fresh perspectives to my work.
-
 ---
 
 ## 🔧 Skills & Interests

@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 ### Interests:
 - **AI Simulation**: Developing intelligent systems that mimic real-world behavior and decision-making processes.
 - **AR/VR**: Creating immersive, interactive environments and experiences using augmented and virtual reality technologies.
+- **Computer Vision**: Exploring how machines can interpret and understand visual information from the world.
 - **Blockchain and Crypto**: A keen believer in the future of **blockchain technology** and its transformative potential.
 - **Fitness**: Incorporating physical activity into daily routines to maintain a healthy lifestyle.
 

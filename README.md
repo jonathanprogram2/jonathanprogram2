@@ -19,14 +19,13 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with 
 ### Interests:
 - **AI in Finance**: Developing intelligent systems that can optimize financial operations, risk management, and investment strategies.
 - **Web3 Blockchain**: Exploring decentralized technologies and their potential to transform various industries, particularly finance.
-- **Financial Modeling**: Creating predictive models to support financial planning and decision-making processes.
 - **Cryptocurrency**: Studying the impact and trends of digital currencies and how they can be integrated into mainstream financial systems.
 - **Fitness**: Incorporating physical activity into daily routines to maintain a healthy lifestyle.
 
 ---
 
 ## 🌱 Currently Exploring
-- **Full-Stack Development**: Delving into both front-end and back-end technologies to become more versatile in project development.
+- **App Development**: Investigating the creation of applications with a focus on finance and blockchain technologies to enhance security and financial efficiency.
 - **Machine Learning Basics**: Gaining insights into how ML can be applied to software solutions, even if at a basic level.
 - **Web3 and Blockchain**: Exploring the future of the internet and finance with decentralized technologies.
 

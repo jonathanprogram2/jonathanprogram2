@@ -1,33 +1,35 @@
-# Hi there, I'm Jonathan Mirabal! 👋
+# Hi there, I'm Jonathan Mirabal! 👋  
 
-Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** with a passion for growth and innovation in the tech industry. Eager to make an impact, I’m particularly drawn to **AI in Finance** and the transformative potential of **Web3 Blockchain** technologies.
+Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passionate about leveraging technology to create innovative and scalable solutions. I specialize in **C++ development**, **cloud computing**, and exploring cutting-edge fields like **AI** and **blockchain**.  
 
----
+---  
 
-## 🚀 About Me
-- 🌟 **Driven by curiosity and innovation**, I specialize in crafting solutions that leverage **programming** and **data analytics** to tackle real-world challenges.
-- 💡 My long-term vision includes advancing the field of **AI in Finance**, exploring how AI can revolutionize financial services, and delving into the transformative potential of **Web3 Blockchain** to create impactful, cutting-edge technologies.
-- 📖 **Always Learning**: Continuously exploring new technologies and methodologies to enhance my skills and bring fresh perspectives to my work.
+## 🚀 About Me  
+- 🌟 **Driven by curiosity and innovation**, I am committed to building impactful software systems and tackling real-world challenges.  
+- 💡 My focus lies in advancing the intersection of **AI, blockchain, and cloud computing** to redefine industries and enhance user experiences.  
+- 📖 **Lifelong Learner**: Continuously acquiring new skills to stay at the forefront of technology and bring fresh ideas to every project.  
 
----
+---  
 
-## 🔧 Skills & Interests
-### Technical Skills:
-- Programming: **C++**, Object-Oriented Programming, Data Structures, Algorithms
-- Productivity Tools: **Microsoft Office (Word, Excel, PowerPoint, Outlook)**, **Canva**, **Adobe Express**
+## 🔧 Skills & Interests  
 
-### Interests:
-- **AI in Finance**: Developing intelligent systems that can optimize financial operations, risk management, and investment strategies.
-- **Web3 Blockchain**: Exploring decentralized technologies and their potential to transform various industries, particularly finance.
-- **Cryptocurrency**: Studying the impact and trends of digital currencies and how they can be integrated into mainstream financial systems.
-- **Fitness**: Incorporating physical activity into daily routines to maintain a healthy lifestyle.
+### **Technical Skills:**  
+- Programming Languages: **C++** (Proficient)  
+- Software Development: **Object-Oriented Programming**, **Data Structures**, **Algorithms**  
+- Tools & Technologies: **Git**, **Visual Studio**, **AWS (Intermediate)**  
 
----
+### **Areas of Interest:**  
+- **Cloud Computing**: Building secure, scalable architectures using AWS.  
+- **AI & Data Analytics**: Creating intelligent systems to optimize processes and enhance decision-making.  
+- **Blockchain & Web3**: Exploring decentralized solutions for transparency and innovation.  
+- **Project Optimization**: Improving performance and scalability of software solutions.  
 
-## 🌱 Currently Exploring
-- **App Development**: Investigating the creation of applications with a focus on finance and blockchain technologies to enhance security and financial efficiency.
-- **Machine Learning Basics**: Gaining insights into how ML can be applied to software solutions, even if at a basic level.
-- **Web3 and Blockchain**: Exploring the future of the internet and finance with decentralized technologies.
+---  
+
+## 🌱 Currently Exploring  
+- **Cloud Computing**: Designing scalable cloud solutions with AWS.  
+- **AI Basics**: Enhancing my understanding of machine learning and its applications.  
+- **Blockchain**: Investigating decentralized technologies to prepare for the future of the internet.
 
 ---
 
@@ -57,10 +59,9 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 🌟 Fun Facts About Me
-- **Sports** have always been a big part of my life, both as a fan and a participant.
-- I'm **bilingual in Spanish** and passionate about **learning different languages**, which helps me connect with diverse people and cultures.
-- I’m passionate about creating **projects** and joining **communities** where I can make a difference as a philanthropist.
-- My favorite quotes are: *"Be the change that you wish to see"* and *"I can be what I will to be."*
+## 🌟 Fun Facts About Me  
+- I’m passionate about **sports**, **community-building**, and **philanthropy**.  
+- Fluent in **Spanish**, and I enjoy connecting with diverse cultures and people.  
+- My favorite quotes are: *"Be the change that you wish to see"* and *"I can be what I will to be."*  
 
-Thanks for visiting! Feel free to explore my repositories and connect with me. Let’s collaborate and grow together!
+Thanks for stopping by! Feel free to explore my repositories and connect with me. Let’s collaborate and create something amazing together!  

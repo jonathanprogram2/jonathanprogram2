@@ -42,7 +42,7 @@ Here are a few projects I’m proud of:
 
 2. **Bricks Breaker**
    - 📌 Repository: https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
-   - **Highlights**:  
+    **Highlights**:  
    - Enhanced the game by introducing dynamic arrays for brick management.  
    - Implemented a responsive system to track collisions and handle win/lose conditions.  
    - Demonstrated proficiency in game logic and system optimization.  

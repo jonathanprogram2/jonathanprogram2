@@ -38,17 +38,14 @@ Here are a few projects I’m proud of:
 
 1. **Conway's Game of Life**
    - 📌 Repository: https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git
-   - 🖍️ Description: A simulation of Conway's Game of Life, demonstrating logic and visualizations in coding.
+   - 🖍️ Description: A simulation of Conway's Game of Life, showcasing my skills in logic, OOP, and visual programming.  
 
 2. **Bricks Breaker**
    - 📌 Repository: https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git
-   - 🖍️ Role:
-     - Replaced a solitary brick object with a **vector of 5 bricks**, evenly spaced across a single row.
-     - Updated `Game::Render` and `Game::CheckCollision` to manage and check collisions for all bricks in the vector.
-     - Introduced a **collision response system**: bricks are removed from the vector after 3 collisions.
-     - Added **win and lose conditions**:
-       - **Win Condition:** If no bricks remain, the game pauses, and "You win! Press ‘R’ to play again" is displayed.
-       - **Lose Condition:** If the ball touches the bottom of the window, the game pauses, and "You lose. Press ‘R’ to play again" is displayed.
+   - **Highlights**:  
+   - Enhanced the game by introducing dynamic arrays for brick management.  
+   - Implemented a responsive system to track collisions and handle win/lose conditions.  
+   - Demonstrated proficiency in game logic and system optimization.  
 
 ---
 

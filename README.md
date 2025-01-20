@@ -1,12 +1,13 @@
 # Hi there, I'm Jonathan Mirabal! 👋  
 
-Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passionate about leveraging technology to create innovative and scalable solutions. I specialize in **C++ & Python development**, **cloud computing**, and exploring cutting-edge fields like **AI** and **blockchain**.  
+I'm a dedicated **Junior Software Engineer** with a strong foundation in **C++ development** and a growing proficiency in **Python**, currently advancing my skills in the language. I'm passionate about leveraging technology to create innovative and scalable solutions, with interests in **cloud computing**, **AI**, and **blockchain**.  
+
 
 ---  
 
 ## 🚀 About Me  
 - 🌟 **Driven by curiosity and innovation**, I am committed to building impactful software systems and tackling real-world challenges.  
-- 💡 My focus lies in advancing the intersection of **AI, blockchain, and cloud computing** to redefine industries and enhance user experiences.  
+- 💡 My focus lies in advancing the intersection of **AI and machine learning** to drive innovation and enhance user experiences. Additionally, I have a growing interest in **blockchain**, which I enjoy exploring as a side project and potential area for future opportunities.
 - 📖 **Lifelong Learner**: Continuously acquiring new skills to stay at the forefront of technology and bring fresh ideas to every project.  
 
 ---  
@@ -19,17 +20,9 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passi
 - Tools & Technologies: **Git**, **Visual Studio**, **AWS (Intermediate)**  
 
 ### **Areas of Interest:**  
-- **Cloud Computing**: Building secure, scalable architectures using AWS.  
-- **AI & Data Analytics**: Creating intelligent systems to optimize processes and enhance decision-making.  
-- **Blockchain & Web3**: Exploring decentralized solutions for transparency and innovation.  
+- **AI & Machine Learning**: Creating intelligent systems to optimize processes and enhance decision-making.  
+- **Blockchain & Web3**: Exploring decentralized solutions as a side project and potential area for future opportunities.  
 - **Project Optimization**: Improving performance and scalability of software solutions.  
-
----  
-
-## 🌱 Currently Exploring  
-- **Cloud Computing**: Designing scalable cloud solutions with AWS.  
-- **AI Basics**: Enhancing my understanding of machine learning and its applications.  
-- **Blockchain**: Investigating decentralized technologies to prepare for the future of the internet.
 
 ---
 

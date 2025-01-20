@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Mirabal! 👋  
 
-Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passionate about leveraging technology to create innovative and scalable solutions. I specialize in **C++ development**, **cloud computing**, and exploring cutting-edge fields like **AI** and **blockchain**.  
+Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passionate about leveraging technology to create innovative and scalable solutions. I specialize in **C++ & Python development**, **cloud computing**, and exploring cutting-edge fields like **AI** and **blockchain**.  
 
 ---  
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated **Junior Software Engineer** passi
 ## 🔧 Skills & Interests  
 
 ### **Technical Skills:**  
-- Programming Languages: **C++** (Proficient)  
+- Programming Languages: **C++** (Proficient), **Python** (Intermediate)
 - Software Development: **Object-Oriented Programming**, **Data Structures**, **Algorithms**  
 - Tools & Technologies: **Git**, **Visual Studio**, **AWS (Intermediate)**  
 

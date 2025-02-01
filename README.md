@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Mirabal! 👋  
 
-I'm a dedicated **Junior Software Engineer** with a strong foundation in **C++ development** and a growing proficiency in **Python**, currently advancing my skills in the language. I'm passionate about leveraging technology to create innovative and scalable solutions, with interests in **cloud computing**, **AI**, and **blockchain**.  
+I'm a dedicated **Junior Software Engineer** with a strong foundation in **C++ development** and currently advancing my skills in the language. I'm passionate about leveraging technology to create innovative and scalable solutions, with interests in **cloud computing**, **AI**, and **blockchain**.  
 
 
 ---  
@@ -15,9 +15,9 @@ I'm a dedicated **Junior Software Engineer** with a strong foundation in **C++ d
 ## 🔧 Skills & Interests  
 
 ### **Technical Skills:**  
-- Programming Languages: **C++** (Proficient), **Python** (Intermediate)
+- Programming Languages: **C++** (Proficient)
 - Software Development: **Object-Oriented Programming**, **Data Structures**, **Algorithms**  
-- Tools & Technologies: **Git**, **Visual Studio**, **AWS (Intermediate)**  
+- Tools & Technologies: **Git**, **Visual Studio**, **AWS (Novice)**  
 
 ### **Areas of Interest:**  
 - **AI & Machine Learning**: Creating intelligent systems to optimize processes and enhance decision-making.  
@@ -39,6 +39,14 @@ Here are a few projects I’m proud of:
    - Enhanced the game by introducing dynamic arrays for brick management.  
    - Implemented a responsive system to track collisions and handle win/lose conditions.  
    - Demonstrated proficiency in game logic and system optimization.  
+
+2. **Calculator Application**
+   - 📌 Repository: https://github.com/FullSailGameStudies/calculator-chris-jonathanprogram2.git
+   - **Highlights**:  
+   - Developed a fully functional calculator application using wxWidgets for GUI development.
+   - Implemented a “ButtonFactory” to dynamically create and manage buttons for optimized UI design.
+   - Integrated a “Processor Singleton” to handle calculation operations and maintain consistent logic.
+   - Designed the application to support scalability and efficient event handling through factory patterns.
 
 ---
 

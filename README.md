@@ -17,7 +17,7 @@ I'm a dedicated **Junior Software Engineer** with a strong foundation in **Pytho
 ### **Technical Skills:**  
 - Programming Languages: **Python**, **C++** 
 - Software Development: **Object-Oriented Programming**, **Data Structures**, **Algorithms**  
-- Tools & Technologies: **Git**, **Visual Studio**, **AWS (Novice)**  
+- Tools & Technologies: **Git**, **Visual Studio**, **AWS**  
 
 ### **Areas of Interest:**  
 - **AI & Machine Learning**: Creating intelligent systems to optimize processes and enhance decision-making.  

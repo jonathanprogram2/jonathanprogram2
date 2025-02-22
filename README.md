@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Mirabal! 👋  
 
-I'm a dedicated **Junior Software Engineer** with a strong foundation in **Python & C++ development** and currently advancing my skills in the language. I'm passionate about leveraging technology to create innovative and scalable solutions, with interests in **cloud computing**, **AI**, and **blockchain**.  
+I'm a dedicated **Junior Software Engineer** with a strong foundation in **Python & C++ development**. I'm passionate about leveraging technology to create innovative and scalable solutions, with interests in **cloud computing**, **AI**, and **blockchain**.  
 
 
 ---  

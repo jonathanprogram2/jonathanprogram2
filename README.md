@@ -33,25 +33,17 @@ I'm a **Python and AI-focused Software Engineer** passionate about building **AI
 
 Here are a few projects showcasing my expertise:
 
-1. **AI Chatbot for Customer Support**  
-   - 📌 Repository: *Coming soon*  
-   - 🖍️ Description: A chatbot designed to automate and enhance customer interactions using AI-driven responses.  
-
-2. **AI-Powered Social Media Post Generator**  
-   - 📌 Repository: *Coming soon*  
-   - 🖍️ Description: A tool that generates engaging social media content based on user-defined parameters.  
-
-3. **Conway's Game of Life**  
+1. **Conway's Game of Life**  
    - 📌 Repository: [Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git)  
    - 🖍️ Description: A simulation of Conway's Game of Life, showcasing my skills in logic, OOP, and visual programming.  
 
-4. **Bricks Breaker**  
+2. **Bricks Breaker**  
    - 📌 Repository: [Bricks Breaker](https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git)  
    - **Highlights**:  
      - Implemented dynamic arrays for efficient brick management.  
      - Developed collision detection and game state tracking.  
 
-5. **Calculator Application**  
+3. **Calculator Application**  
    - 📌 Repository: [Calculator Application](https://github.com/FullSailGameStudies/calculator-chris-jonathanprogram2.git)  
    - **Highlights**:  
      - Built a fully functional calculator with wxWidgets GUI.  

@@ -1,58 +1,52 @@
-# Hi there, I'm Jonathan Mirabal! 👋
+# **Hi there, I'm Jonathan Mirabal! 👋**  
 
-I'm a **Python and AI-focused Software Engineer** passionate about building **AI chatbots, customer support automation, and AI-powered social media content generators**. My goal is to leverage AI and machine learning to develop **scalable, impactful, and intelligent solutions** that help businesses streamline processes and enhance user engagement.
-
----
-
-## 🚀 About Me
-
-- 🤖 **AI Innovator**: Specializing in **AI-powered chatbots** and **social media automation**, I create solutions that improve customer interactions and content generation.
-- 🏆 **Driven by Results**: My focus is on building AI solutions that **enhance productivity, save time, and increase engagement** for businesses and individuals.
-- 📖 **Lifelong Learner**: Continuously honing my skills in AI, machine learning, and software engineering to stay ahead of industry trends.
+I'm an **aspiring software developer** passionate about **artificial intelligence in finance** and the **intersection of AI, investing, and blockchain technology**. My goal is to leverage **machine learning, algorithmic analysis, and automation** to build intelligent financial tools that enhance decision-making and optimize investment strategies.  
 
 ---
 
-## 🔧 Skills & Expertise
+## 🚀 **About Me**  
 
-### **Technical Skills:**
-
-- **Programming Languages**: Python, C++
-- **AI & Machine Learning**: NLP, OpenAI APIs, AI Model Development
-- **Software Development**: Object-Oriented Programming, Data Structures, Algorithms
-- **Tools & Technologies**: Git, Jupyter Notebooks, Visual Studio, OpenAI, TensorFlow, PyTorch
-
-### **Specialized Areas:**
-
-- **AI Chatbots for Customer Support** – Automating customer service with intelligent, conversational AI.
-- **AI Social Media Post Generators** – Streamlining content creation with AI-driven automation.
-- **Custom AI Solutions** – Developing AI-powered applications tailored to business needs.
+- 💻 **Software Developer in Progress**: Actively building projects in **Python and C++**, with a strong focus on **AI-driven financial analysis** and **stock market insights**.  
+- 📈 **AI in Finance Enthusiast**: Exploring the use of **machine learning for investment research, risk assessment, and algorithmic trading**.  
+- 🔗 **Blockchain & Crypto Curious**: Interested in how **decentralized technologies** can reshape financial markets.  
+- 📚 **Lifelong Learner**: Currently pursuing **Computer Science with a focus on AI**, constantly refining my programming skills and expanding my knowledge in fintech.  
 
 ---
 
-## 📂 Featured Projects
+## 🔧 **Skills & Expertise**  
 
-Here are a few projects showcasing my expertise:
+### **Programming & Development**  
+- **Languages**: Python, C++  
+- **Software Development**: Object-Oriented Programming, Data Structures, Algorithms  
+- **Tools & Technologies**: Git, Visual Studio, AWS, Jupyter Notebooks  
 
-1. **Conway's Game of Life**  
-   - 📌 Repository: [Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git)  
-   - 🖍️ Description: A simulation of Conway's Game of Life, showcasing my skills in logic, OOP, and visual programming.  
-
-2. **Bricks Breaker**  
-   - 📌 Repository: [Bricks Breaker](https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git)  
-   - **Highlights**:  
-     - Implemented dynamic arrays for efficient brick management.  
-     - Developed collision detection and game state tracking.  
-
-3. **Calculator Application**  
-   - 📌 Repository: [Calculator Application](https://github.com/FullSailGameStudies/calculator-chris-jonathanprogram2.git)  
-   - **Highlights**:  
-     - Built a fully functional calculator with wxWidgets GUI.  
-     - Implemented a "ButtonFactory" for optimized UI design.  
-     - Designed an efficient event-handling system for scalability.  
+### **Finance & AI Applications**  
+- **AI for Investing** – Exploring **machine learning models** for **dividend stock analysis, risk assessment, and market sentiment tracking**.  
+- **Algorithmic Trading** – Developing automated tools to analyze and optimize investment strategies.  
+- **Blockchain & Crypto** – Researching decentralized finance (DeFi) applications and smart contract integration.  
 
 ---
 
-## 📧 How to Reach Me
+## 📂 **Featured Projects**  
+
+Here are some projects that showcase my skills and interests:  
+
+### 📊 **AI Dividend Stock Finder** *(Work in Progress)*  
+- **Goal**: Build an AI-powered tool to **analyze dividend stocks, assess risk, and rank stocks by sector**.  
+- **Tech Stack**: Python, Machine Learning, Financial Data APIs  
+
+### 🔄 **Stock Price Sentiment Analyzer** *(Coming Soon)*  
+- **Goal**: Use **AI-driven sentiment analysis** to evaluate financial news and predict market trends.  
+- **Tech Stack**: Python, NLP, OpenAI APIs  
+
+### 🎮 **Past Projects (C++ & Python)**  
+1. **[Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git)** – Simulation project demonstrating **algorithmic logic and OOP**.  
+2. **[Bricks Breaker](https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git)** – Classic game remake with **collision detection and optimized game logic**.  
+3. **[Calculator Application](https://github.com/FullSailGameStudies/calculator-chris-jonathanprogram2.git)** – GUI-based calculator using **wxWidgets and efficient event handling**.  
+
+---
+
+## 📧 **How to Reach Me**  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal)  
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)  
@@ -60,10 +54,8 @@ Here are a few projects showcasing my expertise:
 
 ---
 
-## 🌟 Fun Facts About Me
-
-- I’m passionate about **sports, community-building, and fitness**.  
-- Fluent in **Spanish**, and I enjoy connecting with diverse cultures and people.  
+## 🌟 **Fun Facts About Me**  
+- Fitness and sports are a big part of my life—I love staying active!  
 - My favorite quote: *"I can be what I will to be."*  
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let’s build something amazing together! 🚀
+🚀 Thanks for checking out my GitHub! Feel free to explore my repositories and connect with me. Let’s build the future of **AI-powered finance** together!  

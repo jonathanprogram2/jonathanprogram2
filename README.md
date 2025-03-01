@@ -31,9 +31,12 @@ I'm an **aspiring software developer** passionate about **artificial intelligenc
 
 Here are some projects that showcase my skills and interests:  
 
-### 📊 **AI Dividend Stock Finder** *(Work in Progress)*  
-- **Goal**: Build an AI-powered tool to **analyze dividend stocks, assess risk, and rank stocks by sector**.  
-- **Tech Stack**: Python, Machine Learning, Financial Data APIs  
+### 📊 **AI Dividend Stock Finder** 
+**Teck Stack**: Flask, Python, AI Finance
+🔗 Live Demo: (https://ai-dividend-finder.onrender.com)
+📂 GitHub: https://github.com/jonathanprogram2/ai-dividend-finder.git
+Developed an AI-powered tool that ranks dividend stocks, predicts risk levels, and provides sector-based dividend insights. Integrated Flask, yFinance, and Matplotlib to analyze real-world financial data. 
+This project helped me learn about Flask, AI-powered financial analysis, and deploying full-stack applications. While I followed structured guidance, I now understand how APIs, risk analysis, and data visualization work in a real-world application.
 
 ### 🔄 **Stock Price Sentiment Analyzer** *(Coming Soon)*  
 - **Goal**: Use **AI-driven sentiment analysis** to evaluate financial news and predict market trends.  

@@ -29,18 +29,7 @@ I'm an **aspiring software developer** passionate about **artificial intelligenc
 
 ## 📂 **Featured Projects**  
 
-Here are some projects that showcase my skills and interests:  
-
-### 📊 **AI Dividend Stock Finder** 
-**Teck Stack**: Flask, Python, AI Finance
-🔗 Live Demo: (https://ai-dividend-finder.onrender.com)
-📂 GitHub: https://github.com/jonathanprogram2/ai-dividend-finder.git
-Developed an AI-powered tool that ranks dividend stocks, predicts risk levels, and provides sector-based dividend insights. Integrated Flask, yFinance, and Matplotlib to analyze real-world financial data. 
-This project helped me learn about Flask, AI-powered financial analysis, and deploying full-stack applications. While I followed structured guidance, I now understand how APIs, risk analysis, and data visualization work in a real-world application.
-
-### 🔄 **Stock Price Sentiment Analyzer** *(Coming Soon)*  
-- **Goal**: Use **AI-driven sentiment analysis** to evaluate financial news and predict market trends.  
-- **Tech Stack**: Python, NLP, OpenAI APIs  
+Here are some projects that showcase my skills:
 
 ### 🎮 **Past Projects (C++ & Python)**  
 1. **[Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git)** – Simulation project demonstrating **algorithmic logic and OOP**.  

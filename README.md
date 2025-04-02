@@ -1,53 +1,63 @@
-# **Hi there, I'm Jonathan Mirabal! 👋**  
+# 👋 Hi there, I'm Jonathan Mirabal!
 
-I'm an **aspiring software developer** passionate about **artificial intelligence in finance** and the **intersection of AI, investing, and blockchain technology**. My goal is to leverage **machine learning, algorithmic analysis, and automation** to build intelligent financial tools that enhance decision-making and optimize investment strategies.  
+I'm an aspiring **frontend developer and AI-in-finance enthusiast** passionate about building futuristic tools that blend **intelligent automation, blockchain innovation**, and **meaningful design**.
 
----
-
-## 🚀 **About Me**  
-
-- 💻 **Software Developer in Progress**: Actively building projects in **Python and C++**, with a strong focus on **AI-driven financial analysis** and **stock market insights**.  
-- 📈 **AI in Finance Enthusiast**: Exploring the use of **machine learning for investment research, risk assessment, and algorithmic trading**.  
-- 🔗 **Blockchain & Crypto Curious**: Interested in how **decentralized technologies** can reshape financial markets.  
-- 📚 **Lifelong Learner**: Currently pursuing **Computer Science with a focus on AI**, constantly refining my programming skills and expanding my knowledge in fintech.  
+Currently building **Obel** and **Focus Pocus** — two ambitious projects that combine crypto research, Web3 data, AI potential, and glowing UI design to help people make smarter decisions.
 
 ---
 
-## 🔧 **Skills & Expertise**  
+## 🚀 About Me
 
-### **Programming & Development**  
-- **Languages**: Python, C++  
-- **Software Development**: Object-Oriented Programming, Data Structures, Algorithms  
-- **Tools & Technologies**: Git, Visual Studio, AWS, Jupyter Notebooks  
-
-### **Finance & AI Applications**  
-- **AI for Investing** – Exploring **machine learning models** for **dividend stock analysis, risk assessment, and market sentiment tracking**.  
-- **Algorithmic Trading** – Developing automated tools to analyze and optimize investment strategies.  
-- **Blockchain & Crypto** – Researching decentralized finance (DeFi) applications and smart contract integration.  
+- 🎓 **Computer Science Student** focused on AI & Software Engineering  
+- 🧱 Currently building: `Obel` (crypto research platform) & `Focus Pocus` (ADHD productivity app)  
+- 🌐 Exploring: **Web3, blockchain APIs, React**, and Android development  
+- 🤖 Passionate about the future of **AI in finance, investing, and smart systems**  
+- 🧠 Always learning — from real-world projects, deep research, and late-night debugging sessions  
 
 ---
 
-## 📂 **Featured Projects**  
+## 🛠️ Skills & Tools
 
-Here are some projects that showcase my skills:
+**Languages & Frameworks**  
+`JavaScript` `Python` `C++` `Kotlin` `Java` `React` `TailwindCSS` `Firebase`
 
-### 🎮 **Past Projects (C++ & Python)**  
-1. **[Conway's Game of Life](https://github.com/FullSailGameStudies/conway-s-game-of-life-08-24-jonathanprogram2.git)** – Simulation project demonstrating **algorithmic logic and OOP**.  
-2. **[Bricks Breaker](https://github.com/FullSailGameStudies/bricksbreaker-chris-jonathanprogram2.git)** – Classic game remake with **collision detection and optimized game logic**.  
-3. **[Calculator Application](https://github.com/FullSailGameStudies/calculator-chris-jonathanprogram2.git)** – GUI-based calculator using **wxWidgets and efficient event handling**.  
+**Mobile & Frontend Dev**  
+`Android Studio` `XML Layouts` `Material Design` `Lottie` `Figma`
+
+**AI & Blockchain Exploration**  
+`Chart.js` `Web3 APIs` `Machine Learning Concepts` `Crypto Analysis`
+
+**Workflow & Tools**  
+`Git` `GitHub` `VS Code` `Jira` `Vercel`
 
 ---
 
-## 📧 **How to Reach Me**  
+## 🔥 Featured Projects
+
+### 🧠 [Obel](https://github.com/jonathanprogram2/obel) – Crypto Research & AI-Powered Intelligence Platform *(Ongoing)*  
+> Built in React + Firebase | Chart.js | Tailwind | Web3 APIs  
+A futuristic platform that curates meme coin data, technical analysis, and social sentiment. Features include an animated Explore Page, CoinIntel.js, and future integration of an AI assistant (ObelGPT), Whale Watch, and cross-chain dashboards.
+
+---
+
+### ⚡ [Focus Pocus](https://github.com/jonathanprogram2/focus-pocus/tree/dev) – Android Productivity Assistant *(Team Project – Personal Dev Branch)*  
+> Kotlin | Android Studio | Firebase (Planned) | Genos Font | Lottie  
+An offline assistant designed to help users with ADHD stay organized. Features animated nudges, custom UI, parental mode, and an evolving backend with AI-powered task scheduling.
+
+---
+
+## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal)  
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)  
-- 🌐 Personal Website: *Coming soon*  
+- 🌐 Personal Site: *Coming Soon via Vercel*
 
 ---
 
-## 🌟 **Fun Facts About Me**  
-- Fitness and sports are a big part of my life—I love staying active!  
-- My favorite quote: *"I can be what I will to be."*  
+## 🧬 Fun Facts
+- I love fitness, sports, and reading personal development books
+- Favorite quote: _"I can be what I will to be."_
 
-🚀 Thanks for checking out my GitHub! Feel free to explore my repositories and connect with me. Let’s build the future of **AI-powered finance** together!  
+---
+
+Thanks for visiting! Let’s build something powerful 💡

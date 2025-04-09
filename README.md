@@ -1,34 +1,38 @@
 # 👋 Hi there, I'm Jonathan Mirabal!
 
-I'm an aspiring **frontend developer and AI-in-finance enthusiast** passionate about building futuristic tools that blend **intelligent automation, blockchain innovation**, and **meaningful design**.
+I’m a frontend developer and AI-in-finance enthusiast passionate about building tools that feel futuristic, purposeful, and beautifully designed.
 
-Currently building **Obel** and **Focus Pocus** — two ambitious projects that combine crypto research, Web3 data, AI potential, and glowing UI design to help people make smarter decisions.
+My work blends intelligent automation, Web3 innovation, and immersive user experiences. I’m currently building **Obel**, a visual crypto research platform powered by AI and real-time Web3 data, and **Focus Pocus**, a productivity app designed to support users with ADHD through smart nudges, routines, and gamified insights.
+
+Whether I’m designing animated interfaces or integrating backend systems, I care deeply about combining **functionality with creativity**, and bringing bold ideas to life through code.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** focused on AI & Software Engineering  
-- 🧱 Currently building: `Obel` (crypto research platform) & `Focus Pocus` (ADHD productivity app)  
-- 🌐 Exploring: **Web3, blockchain APIs, React**, and Android development  
-- 🤖 Passionate about the future of **AI in finance, investing, and smart systems**  
-- 🧠 Always learning — from real-world projects, deep research, and late-night debugging sessions  
+- 🎓 **Computer Science Student** with a focus on AI, frontend development, and software engineering  
+- 🧱 Currently building: `Obel` – an AI-powered Web3 research platform & `Focus Pocus` – a productivity app for ADHD support  
+- 🌐 Exploring: **React**, **TailwindCSS**, **Framer Motion**, **Web3/blockchain APIs**, and **Android development**  
+- 🤖 Passionate about the intersection of **AI, finance, crypto, and intelligent automation**  
+- 🧠 Committed to continuous learning through real-world projects, design systems, and late-night debugging sessions  
+
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages & Frameworks**  
-`JavaScript` `Python` `C++` `Kotlin` `Java` `React` `TailwindCSS` `Firebase`
+`JavaScript` `Kotlin` `Python` `Java` `C++` `React` `TailwindCSS` `Firebase`
 
-**Mobile & Frontend Dev**  
-`Android Studio` `XML Layouts` `Material Design` `Lottie` `Figma`
+**Mobile & Frontend Development**  
+`Android Studio` `XML Layouts` `Material Design` `Figma` `Lottie` `Framer Motion`
 
 **AI & Blockchain Exploration**  
-`Chart.js` `Web3 APIs` `Machine Learning Concepts` `Crypto Analysis`
+`Chart.js` `Web3 APIs` `Crypto Analysis` `Machine Learning Concepts`
 
-**Workflow & Tools**  
-`Git` `GitHub` `VS Code` `Jira` `Vercel`
+**Workflow & Developer Tools**  
+`Git` `GitHub` `VS Code` `Jira` `Vercel` `Render`
+
 
 ---
 

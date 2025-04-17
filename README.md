@@ -1,6 +1,11 @@
+
+![APPLE vision pro 3D portfolio concept from zenodegenkamp@1-1699x941](https://github.com/user-attachments/assets/c5f17264-e48e-449a-aa92-445e1c7a0152)
+
+
+
 # 👋 Hi there, I'm Jonathan Mirabal!
 
-I’m a frontend developer and AI-in-finance enthusiast passionate about building tools that feel futuristic, purposeful, and beautifully designed.
+I’m a frontend engineer/web developer passionate about building tools that feel futuristic, purposeful, and beautifully designed.
 
 My work blends intelligent automation, Web3 innovation, and immersive user experiences. I’m currently building **Obel**, a visual crypto research platform powered by AI and real-time Web3 data, and **Focus Pocus**, a productivity app designed to support users with ADHD through smart nudges, routines, and gamified insights.
 
@@ -47,6 +52,16 @@ A futuristic platform that curates meme coin data, technical analysis, and socia
 ### ⚡ [Focus Pocus](https://github.com/jonathanprogram2/focus-pocus/tree/dev) – Android Productivity Assistant *(Team Project – Personal Dev Branch)*  
 > Kotlin | Android Studio | Firebase (Planned) | Genos Font | Lottie  
 An offline assistant designed to help users with ADHD stay organized. Features animated nudges, custom UI, parental mode, and an evolving backend with AI-powered task scheduling.
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanprogram2&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

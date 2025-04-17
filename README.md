@@ -58,13 +58,6 @@ An offline assistant designed to help users with ADHD stay organized. Features a
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal)  

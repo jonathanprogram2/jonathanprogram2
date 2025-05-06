@@ -67,7 +67,7 @@ An Android app designed to support individuals with ADHD through calming visuals
 ---
 
 ## 🧬 Fun Facts
-- I love fitness, sports, and reading personal development books
+- I love fitness, sports, and traveling.
 - Favorite quote: _"I can be what I will to be."_
 
 ---

@@ -59,9 +59,10 @@ An Android app designed to support individuals with ADHD through calming visuals
 
 ## 📫 Connect with Me
 
+- 🌐 Personal Site: https://jonathanmirabal.vercel.app/
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathanmirabal)  
 - 📧 Email: [jonathan.a.mirabal@gmail.com](mailto:jonathan.a.mirabal@gmail.com)  
-- 🌐 Personal Site: https://jonathanmirabal.vercel.app/
+
 
 ---
 

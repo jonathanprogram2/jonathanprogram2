@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Jonathan Mirabal!
 
-I’m an aspiring **Software Engineer** and **Financial Data Enthusiast** passionate about creating bold, interactive user experiences at the intersection of design, data, and technology.
+I’m a **Software Engineer** and **Financial Data Enthusiast** passionate about creating bold, interactive user experiences at the intersection of design, data, and technology.
 
 Currently, I’m building projects that explore how **visual interfaces, Web3 technologies, and data-driven insights** can empower users—from crypto investors to productivity seekers. I love bringing ideas to life through thoughtful UI, seamless interaction, and modern web tools.
 

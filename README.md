@@ -66,11 +66,16 @@ An Android app designed to support individuals with ADHD through calming visuals
 
 
 ---
+### 🎉 Fun Facts About Me
 
-## 🧬 Fun Facts
-- I love fitness, sports, and traveling.
+- 🏋️‍♂️ I love working out — it keeps me energized and focused.
+- 🏀 I'm a big sports fan — basketball and football are my go-tos.
+- 📚 Reading is one of my favorite ways to unwind and learn something new.
+- ✍️ I enjoy writing — whether it's journaling, blogging, or creative pieces.
+- ✈️ Traveling is a passion of mine — exploring new cultures always excites me.
+
 - Favorite quote: _"I can be what I will to be."_
 
 ---
 
-Thanks for visiting! Let’s build something powerful 💡
+Thanks for visiting!

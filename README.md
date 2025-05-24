@@ -1,5 +1,6 @@
 
-![APPLE vision pro 3D portfolio concept from zenodegenkamp@1-1699x941](https://github.com/user-attachments/assets/c5f17264-e48e-449a-aa92-445e1c7a0152)
+![MY GitHUB Page](https://github.com/user-attachments/assets/c4f0bb13-8efe-49a0-92e2-a15dc5b3271f)
+
 
 
 # 👋 Hi there, I'm Jonathan Mirabal!

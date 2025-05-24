@@ -23,20 +23,38 @@ Currently, I’m building projects that explore how **visual interfaces, Web3 te
 
 ## 🛠️ Skills & Tools
 
-**Languages & Frameworks**  
-`JavaScript` `TypeScript` `Kotlin` `Python` `React` `TailwindCSS` `Spline`
+### 💻 Languages & Frameworks
+`JavaScript` `TypeScript` `Python` `Kotlin` `XML` `React` `TailwindCSS` `Spline`
 
-**Frontend & UI Development**  
-`React` `GSAP` `Framer Motion` `Figma` `Lottie` `Material Design`
+### 🎨 Frontend & UI Development
+`React` `TailwindCSS` `GSAP` `Framer Motion` `Figma` `Lottie` `Material Design`
+- UI Wireframing  
+- Microinteractions  
+- Custom Animations  
+- UX Design Principles  
 
-**Android & Mobile**  
+### 📱 Android & Mobile
 `Android Studio` `XML Layouts` `Retrofit` `ViewModel` `Coroutines`
 
-**Data & Blockchain Exploration**  
-`Chart.js` `Web3 APIs` `Crypto Analysis` `Data Visualization`
+### 🪙 Web3 & Blockchain
+- Token Market APIs  
+- Crypto Pricing APIs  
+- Real-Time OHLC Data (`Twelve Data API`)  
+- DeFi Integration  
+- Social Sentiment APIs  
+- Web3 APIs  
+- Crypto Analysis
 
-**Developer Tools**  
-`Git` `GitHub` `VS Code` `Jira` `Vercel`
+### 📊 Data & Charts
+`Chart.js` `react-chartjs-2` `Recharts`
+- Data Pipelines  
+- Interactive Visualization  
+- Dynamic Routing  
+- REST APIs
+
+### 🧰 Developer Tools
+`Git` `GitHub` `VS Code` `Firebase Auth/Storage` `Axios` `Jira` `Vercel`
+
 
 ---
 

@@ -5,9 +5,11 @@
 
 # 👋 Hi there, I'm Jonathan Mirabal!
 
-I’m a **Software Engineer** and **Financial Data Enthusiast** passionate about creating bold, interactive user experiences at the intersection of design, data, and technology.
+I’m a **Frontend Engineer** and **Creative Technologist** passionate about building immersive, visually engaging user experiences.  
 
-Currently, I’m building projects that explore how **visual interfaces, Web3 technologies, and data-driven insights** can empower users—from crypto investors to productivity seekers. I love bringing ideas to life through thoughtful UI, seamless interaction, and modern web tools.
+My current work explores how **3D graphics, interactive animations, and modern web tools** can push the boundaries of digital design. Whether I’m crafting smooth UI interactions or experimenting with motion and spatial interfaces, I love turning bold ideas into responsive, accessible websites that feel alive.  
+
+Always learning. Always building.
 
 ---
 
@@ -36,14 +38,6 @@ Currently, I’m building projects that explore how **visual interfaces, Web3 te
 ### 📱 Android & Mobile
 `Android Studio` `XML Layouts` `Retrofit` `ViewModel` `Coroutines`
 
-### 🪙 Web3 & Blockchain
-- Token Market APIs  
-- Crypto Pricing APIs  
-- Real-Time OHLC Data (`Twelve Data API`)  
-- DeFi Integration  
-- Social Sentiment APIs  
-- Web3 APIs  
-- Crypto Analysis
 
 ### 📊 Data & Charts
 `Chart.js` `react-chartjs-2` `Recharts`
@@ -60,9 +54,10 @@ Currently, I’m building projects that explore how **visual interfaces, Web3 te
 
 ## 🔥 Featured Projects
 
-### 🧠 [Obel](https://github.com/jonathanprogram2/obel) – AI-Powered Crypto Insights Platform *(Ongoing)*  
-> Built with React | TypeScript | TailwindCSS | Web3 APIs | Chart.js  
-A futuristic crypto research platform that transforms blockchain and social data into actionable insights. Features include an animated Explore Page, CoinIntel.js for meme coin tracking, and future integrations like an AI assistant, Whale Watch, and cross-chain dashboards.
+### 🧠 [Obel](https://github.com/jonathanprogram2/obel) – Long-Term Stock Investment Platform *(Ongoing)*  
+> Built with React | TypeScript | TailwindCSS | Chart.js | Twelve Data API  
+
+A futuristic stock investing dashboard that merges the long-term, pie-based strategy of **M1 Finance** with the deep research and analysis tools of **Morningstar**. Obel helps users build diversified portfolios, track performance over time, and visualize holdings with interactive charts. Features include dynamic allocation pie charts, performance tracking, real-time price data, and a personalized dashboard—all styled in a sleek, Obel-branded UI. Future updates will introduce AI portfolio optimization, dividend yield rankings, and risk management tools.
 
 ---
 

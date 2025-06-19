@@ -66,6 +66,8 @@ A Frontend Mentor challenge brought to life using a fully componentized React se
 - Matched exact Figma alignment for layout, spacing, and font rendering
 - Debugged mobile layout issues and refined flex/grid behavior across breakpoints
 - Solved image aspect ratio clipping and sidebar overlap bugs through responsive CSS
+- Overcame major mobile responsiveness hurdles across Home, Destination, Crew, and Technology pages—solved layout stacking, image stretching, font scaling, and alignment inconsistencies with mobile-first media queries and precision CSS overrides
+
 
 > 📁 [View GitHub Repository](https://github.com/jonathanprogram2/space-tourism-website)
 

@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Jonathan Mirabal!
 
-I’m a **Frontend Engineer** and aspiring **Full-Stack Web Developer** passionate about crafting bold, responsive, and interactive digital experiences. My work focuses on creating visually refined UIs, intuitive navigation systems, and dynamic content integrations—all powered by modern web technologies.
+I’m a **Software Engineer** and a **Full-Stack Web Developer** passionate about crafting bold, responsive, and interactive digital experiences. My work focuses on creating visually refined UIs, intuitive navigation systems, and dynamic content integrations—all powered by modern web technologies.
 
 Whether building production-ready apps or experimenting with futuristic designs, I aim to bridge creative UI with strong frontend architecture and clean, scalable code.
 

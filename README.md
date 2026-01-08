@@ -50,15 +50,15 @@ I’m especially into **UI/UX**, polished component systems, and interactive das
 
 ## GitHub stats
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonathanprogram2&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonathanprogram2&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=jonathanprogram2)
-
 
 ---
 
 ## Let’s connect
 - **Portfolio:** https://jamxstudios.vercel.app/  
 - **LinkedIn:** https://www.linkedin.com/in/jonathanmirabal/  
-- **Email:** jonathan.a.mirabal@gmail.com
 
 ---
 

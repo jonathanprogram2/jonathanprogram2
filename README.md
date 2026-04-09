@@ -20,7 +20,7 @@
 I'm a frontend engineer based in **Cleveland, Ohio** who builds responsive, design-forward web apps using **React** and **Next.js**. I care deeply about clean UI/UX, real-world API integration, and shipping things that actually work.
 
 Currently I'm:
-- 🎓 Finishing my **B.S. in Computer Science (AI Concentration)** at Full Sail University — May 2026
+- 🎓 Finishing my **B.S. in Computer Science (AI Concentration)** at Full Sail University — June 2026
 - 📚 Accepted into **RIT's M.S. Human-Computer Interaction** program — Fall 2026
 - 🤖 Working as an **AI Training Contractor** for ScaleAI & Labelbox — crafting and evaluating prompts that train large language models
 - 🏢 Running **[JAMX Studios](https://jamxstudios.vercel.app)** — my freelance web agency serving local businesses

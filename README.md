@@ -1,4 +1,5 @@
-![MY GitHUB Page (1)](https://github.com/user-attachments/assets/7804cde5-25b9-4022-b30d-e80a16d63cfd)
+
+![Welcome to my Github (3) (2)](https://github.com/user-attachments/assets/384b95af-ccaf-4f4c-9d81-ee58f3d028a3)
 
 <h1 align="center">Hey, I'm Jonathan Mirabal 👋</h1>
 

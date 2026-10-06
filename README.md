@@ -40,7 +40,7 @@
 
 I'm an **AI Evaluation Engineer and Frontend Developer** based in Cleveland, Ohio.
 
-My work sits at the intersection of **software engineering, AI evaluation, frontend development, and human-computer interaction**. I build responsive web applications, evaluate software-engineering agents inside real repositories, design coding benchmarks, and contribute to open-source React/TypeScript projects.
+My work lives right at the intersection of **software engineering, AI evaluation, frontend development, and human-computer interaction**. I build responsive web applications, evaluate software-engineering agents inside real repositories, design coding benchmarks, and contribute to open-source React/TypeScript projects.
 
 Currently I'm:
 
